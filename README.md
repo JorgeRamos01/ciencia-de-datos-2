@@ -9,4 +9,6 @@ Se aplica Kernel PCA a textos para identificar similaridades, usando kernel stri
 
 Se utilizan características básicas en imágenes como cuartiles centrales y medianas en espacios RGB y HSV para identificar características que permitan clasificarlas.
 
+El código para obtener los pesos de la matriz de Gram fue optimizado haciendo uso de RCPP.
+
 Más detalles se establecen en el pdf adjunto.
